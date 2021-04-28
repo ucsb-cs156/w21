@@ -56,7 +56,7 @@ We can talk more about this in lecture, and I'm happy to... just ask.  But here'
   the `secrets-localhost.properties`, it should not be checked into GitHub (for the same reason).  This file is also used by the `setHerokuVar.py` script to
   initialize a few "Config Vars" on the Settings page of your Heroku app, values that are read into the front end JavaScript code when the application first
   starts up.
-* The `secrets-localhost.properties` file is used by the `setHerokuVar.py` script to
+* The `secrets-heroku.properties` file is used by the `setHerokuVar.py` script to
   initialize the "config vars" called `SPRING_PROPERTIES` on the Settings page of your Heroku app.   
   These values are read by the Java code on Heroku when your application first starts up.
 
