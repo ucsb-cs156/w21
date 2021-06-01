@@ -7,28 +7,27 @@ ready: true
 
 # Today's work
 
-* 8 out of 12 teams are now at or above 100 points.
-  - These teams should use the time to work on their final presentations
-  - You may also go ahead and fill out the CATME peer evaluation 3
-* All other teams:
-  - Focus on getting PRs merged
-  - We may have offered "quick win" stories (new PRs for those are ok)
-  - We want those PRs ready to merge before lecture tomorrow.
+* All but one of the 10 teams is now at or above 100 points.
+  - The one team is at 85, and has a 40 point issue "almost done", so they will get there too, shortly.
+  - The PR is in, and they are just working on test cases, getting in mergable, etc.
+  - For that team, this final PR is today's focus
+* All other teams: you may use the time to 
+  - Focus on planning / execution of your final presentation.
 
 # One last short homework assignment
 
 We have one last homework assignment, which is more of the nature of a "reflection" piece.   It shouldn't take more than 30 minutes of time.
 
-<https://www.gradescope.com/courses/255328/assignments/1334103>
+<https://www.gradescope.com/courses/219931/assignments/1089478>
 
-I'm asking you to reflect on 
+I'll ask you to reflect on 
 - what you learned in the course
 - how you would talk about that at a job interview
 - what advice you would give to future students or for future changes to the course
   
 # Suggestions for the final presentation planning process
 
-You may undertake this any way you see fit.   The following is just a suggesiton of how to go about this, not a requirement.
+You may under take this any way you see fit.   The following is just a suggesiton of how to go about this, not a requirement.
 
 1.  Perhaps start by listing the new features that your team contributed, focusing on what the user sees/experiences.
 2.  For each of those, note who worked on those.
@@ -56,6 +55,6 @@ Having said that, there may be reasons you are motivated to continue, such as:
 * You still feel like you are learning, and you are more invested in the learning than in the grade.
 
 For Whatever work is left "unfinished" from W21:  here's what happens:
-* It becomes work for W22 teams.
+* It becomes work for S21 teams.
 * We will create a new issue that's a clone of the old issue; then link the new one to the old issue, old branch, and old PR if any.
-* The new W22 teams may choose to start from scratch, or build on your work in progress, as they see fit.
+* The new S21 teams may choose to start from scratch, or build on your work in progress, as they see fit.
